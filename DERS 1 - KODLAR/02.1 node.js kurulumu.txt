@@ -1,0 +1,6 @@
+NODE.JS
+https://nodejs.org/en/download
+
+VSCODE - ya da istediğiniz IDE
+https://code.visualstudio.com/download
+

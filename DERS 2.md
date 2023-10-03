@@ -1,0 +1,2 @@
+- vscode'da folder açma
+- vscode'da dosya yaratma

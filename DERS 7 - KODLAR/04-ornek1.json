@@ -1,0 +1,33 @@
+{
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Fiction",
+            "borrowed": false
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Fiction",
+            "borrowed": true
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Science Fiction",
+            "borrowed": true
+        },
+        {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Science Fiction",
+            "borrowed": true
+        }
+    ],
+    
+    "person": {
+        "name": "Emre Safa",
+        "surname": "Çelik"
+    }
+}

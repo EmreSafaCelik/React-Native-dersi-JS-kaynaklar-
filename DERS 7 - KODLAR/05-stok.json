@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "name": "Elma",
+            "quantity": 100,
+            "category": "Meyveler"
+        },
+        {
+            "name": "Muz",
+            "quantity": 80,
+            "category": "Meyveler"
+        },
+        {
+            "name": "Brokoli",
+            "quantity": 50,
+            "category": "Sebzeler"
+        },
+        {
+            "name": "Havuç",
+            "quantity": 60,
+            "category": "Sebzeler"
+        },
+        {
+            "name": "Tavuk",
+            "quantity": 40,
+            "category": "Et"
+        },
+        {
+            "name": "Biftek",
+            "quantity": 30,
+            "category": "Et"
+        }
+    ]
+}

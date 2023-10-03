@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScript İlk Ders</title>
+    </head>
+    <body>
+        <h1>JavaScript'e Giriş</h1>
+        <p id="demo">JavaScript, web sitelerini daha interaktif
+             hale getirmek amacıyla ortaya çıkmıştır.</p>
+        <button type="button" onclick="changeText()">Tıkla bana!</button>
+
+        <script>
+            function changeText() {
+                document.getElementById("demo").innerHTML = "Ancak artık büyümüş ve bir çok farklı yerde kullanmaya başlanmıştır.";
+            }
+            console.log("JavaScript'in asıl ismi ECMAScript'tir.")
+        </script>
+    </body>
+</html>
+<!-- Tarayicilarda JavaScript calistirma yontemi bu şekildedir. 
+    Server tarafinda calistirmak icin ise, node.js'e ihtiyac vardir. -->
